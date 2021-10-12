@@ -1,2 +1,2 @@
-# 2122-yr1-team-uncreatives
-CS1S464 2021/22 Team Uncreatives
+# Mike's experimental branch for line drawing
+Refer to Issue #3 for details
